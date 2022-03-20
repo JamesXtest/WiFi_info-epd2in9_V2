@@ -1,5 +1,5 @@
 # WiFi_info-epd2in9_V2
-
+![Imgur](https://i.imgur.com/2IZe3iD.png)
 #### Beta version, for hardware test purposes only.
 + Please recheck the program before use.
 
